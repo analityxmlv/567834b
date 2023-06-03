@@ -1,4 +1,4 @@
-These proyect is for an energy company in Australia. These company builds solar panel arrays and then sells the energy they produce to industrial customers. The company wants to expand to the city of Melbourne in the state of Victoria. 
+TThese proyect is for an energy company in Australia. These company builds solar panel arrays and then sells the energy they produce to industrial customers. The company wants to expand to the city of Melbourne in the state of Victoria. 
 
 Prices and demand for electricity change every day. Customers pay for the energy received using a formula based on the local energy market's daily price.
 
